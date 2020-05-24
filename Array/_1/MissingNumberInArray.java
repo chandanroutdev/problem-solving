@@ -30,3 +30,6 @@ class MissingNumberInArray {
         System.out.println("Missing number is : " + (xor1 ^ xor2));
     }
 }
+
+// credit : https://youtu.be/K5vUX8Sc_08?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+// practice : https://leetcode.com/problems/missing-number/
