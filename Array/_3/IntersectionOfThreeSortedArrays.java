@@ -26,3 +26,7 @@ class IntersectionOfThreeSortedArrays {
         intersectionOfThreeArrays(arr1, arr2, arr3);
     }
 }
+
+// credit: https://youtu.be/rUPdTNmKa6A?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b
+
+// practice : https://practice.geeksforgeeks.org/problems/common-elements/0
