@@ -1,5 +1,7 @@
 package Array._3;
 
+import java.util.*;
+
 class IntersectionOfThreeSortedArrays {
     public static void intersectionOfThreeArrays(int arr1[], int arr2[], int arr3[]) {
         int x = 0, y = 0, z = 0;
